@@ -1,5 +1,6 @@
 # Internship_Banking_ML-project
 # Machine Learning (Training + Internship) by InternshipStudio
+![image](https://user-images.githubusercontent.com/54171173/124419186-a5107580-dd7a-11eb-84b8-f707c9ca4acd.png)
 # Project Title:
 Marketing Campaign for Banking Products
 # Data Description:

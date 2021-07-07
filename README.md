@@ -42,14 +42,15 @@ The bank has a growing customer base. The bank wants to increase borrowers (asse
 
 ● Credit card: Does the customer use a credit card issued by the bank?
 
-Objective:
+# Objective:
 The classification goal is to predict the likelihood of a liability customer buying personal loans.
 Steps and tasks:
 Import the datasets and libraries, check datatype, statistical summary, shape, null values etc
 
 Check if you need to clean the data for any of the variables
 
-EDA: Study the data distribution in each attribute and target variable, share your findings.
+# EDA:
+Study the data distribution in each attribute and target variable, share your findings.
 
 ● Number of unique in each column?
 
